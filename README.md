@@ -63,16 +63,13 @@ O Herói tem de vitórias o saldo: 55. Está no nível: Ouro
 
 🛠 Tecnologias Utilizadas
 
-JavaScript
-Node.js
-prompt-sync
+JavaScript | Node.js | prompt-sync
 
 -------------------------------------------------------------
 
 📂 Estrutura do Projeto
 
-script.js
-README.md
+script.js | README.md
 
 -------------------------------------------------------------
 
